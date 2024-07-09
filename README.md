@@ -72,4 +72,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Acknowledgements
 
 The dataset used in this project is sourced from (https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
+
 Gradio for providing an easy-to-use library for creating interactive user interfaces.
