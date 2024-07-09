@@ -49,7 +49,7 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.com/yourusername/student-test-score-prediction.git
+git clone https://github.com/OsamahSharaf/student-test-score/tree/main
 cd student-test-score-prediction
 Open the Jupyter notebook student-test-score.ipynb to explore the data analysis and model development steps.
 
