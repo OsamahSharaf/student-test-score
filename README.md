@@ -44,7 +44,7 @@ Train models using Support Vector Regression (SVR) for predicting Math, Reading,
 Evaluate the models using metrics like Mean Squared Error (MSE) and cross-validation.
 Interactive User Interface:
 
-Create an interactive interface using Gradio where users can input student data and get predicted scores for Math, Reading, and Writing.
+Create an interactive interface using Gradio where users can input student data and get predicted Math, Reading, and Writing scores.
 How to Run
 
 Clone this repository:
@@ -63,16 +63,13 @@ Project Structure
 student-test-score.ipynb: Jupyter notebook containing data analysis and model development steps.
 run_gradio.py: Script to run the Gradio interface for predicting student scores.
 data/: Directory containing the dataset.
+
 models/: Directory for saving trained models.
 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Acknowledgements
 
-The dataset used in this project is sourced from [source].
+The dataset used in this project is sourced from (https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
 Gradio for providing an easy-to-use library for creating interactive user interfaces.
